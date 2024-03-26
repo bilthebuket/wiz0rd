@@ -1,0 +1,24 @@
+#container
+{
+    width:1200px;
+    height:500px;
+    border:100px solid black;
+    position: relative;
+    margin:auto;
+    border-radius:25px;
+}
+
+#user
+{
+    height:32px;
+    width:32px;
+    background-image:url(userSprite/FierceWizard.png);
+    background-position-x: -0px;
+    margin-top:468px;
+    position:absolute;
+}
+
+#start
+{
+    position:absolute;
+}
